@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mMM4UPZgKRj5QJKlDfDOGhCCL8On8oCPi53ciD2OoY00PHDOtpF537/447D6t8fEa0+L8mQikzQJJqNytKDOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brenn\\source\\Dev\\Algorithm\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.225.121:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
